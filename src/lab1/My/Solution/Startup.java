@@ -1,4 +1,6 @@
-package lab1;
+package lab1.My.Solution;
+
+
 
 /**
  * In this lab your challenge is to fix the code in both classes to use
